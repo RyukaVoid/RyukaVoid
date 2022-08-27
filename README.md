@@ -11,14 +11,10 @@
 - Estudié en la Universidad Técnica Federico Santa María.<br/>
 - Me gradué el año 2020 con el Titulo Técnico Universitario en Informática.<br/>
 - Me gusta aprender cosas nuevas, no me gusta hacer lo mismo por mucho tiempo.<br/>
-- Siempre estoy investigando nuevas tecnologías.<br/>
-- Mi objetivo es ser un desarrollador web senior con muchos proyectos personales a código libre.<br/>
 - Me gusta trabajar en equipo.<br/>
-- Actualmente estoy trabajando en <b>NeeringSPA</b><br/>
-- Mi tiempo libre lo tomo para hacer proyectos personales y/o estudiar nuevas tecnologías.</br>
+- Actualmente estoy trabajando en <b>ApsideSpa</b><br/>
 - Me gusta mucho la lógica algorítmica y el diseño.</br>
-- Hago front-end tanto como back-end. También administro base de datos y quisiera aprender sobre redes y deployment.</br>
-- Me gustan los desafíos, porque gracias a ellos aprendo cosas nuevas a pesar del gran esfuerzo que este conlleva.</br>
+- Me gustan los desafíos.</br>
 
 
 ### 🛠 &nbsp;Tecnologías
