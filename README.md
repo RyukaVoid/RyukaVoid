@@ -3,18 +3,11 @@
 </div>
 
 <!-- ## 👋 &nbsp;Hey there! I'm Ryuka -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=F7005C&background=FFFFFF00&center=true&vCenter=true&size=40&width=480&height=50&lines=Hola!+Me+llamo+Diego)](https://github.com/RyukaVoid)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=F7005C&background=FFFFFF00&center=true&vCenter=true&size=40&width=480&height=50&lines=Ryuka)](https://github.com/RyukaVoid)
 
 ### 👨🏻‍💻 &nbsp;Sobre mi
 <img alt="Me programming" src="https://c.tenor.com/z4Pjus3zEcsAAAAd/dad-coraline.gif" width="265px" align="right"/>
-- Soy Desarrollador web, tengo 22 años.<br/>
-- Estudié en la Universidad Técnica Federico Santa María.<br/>
-- Me gradué el año 2020 con el Titulo Técnico Universitario en Informática.<br/>
-- Me gusta aprender cosas nuevas, no me gusta hacer lo mismo por mucho tiempo.<br/>
-- Me gusta trabajar en equipo.<br/>
-- Actualmente estoy trabajando en <b>ApsideSpa</b><br/>
-- Me gusta mucho la lógica algorítmica y el diseño.</br>
-- Me gustan los desafíos.</br>
+- Me gusta programar
 
 
 ### 🛠 &nbsp;Tecnologías
