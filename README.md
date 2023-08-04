@@ -6,7 +6,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=F7005C&background=FFFFFF00&center=true&vCenter=true&size=40&width=480&height=50&lines=Ryuka)](https://github.com/RyukaVoid)
 
 ### 👨🏻‍💻 &nbsp;Sobre mi
-<img alt="Me programming" src="[https://c.tenor.com/z4Pjus3zEcsAAAAd/dad-coraline.gif](https://preview.redd.it/hx2er6ahcrv11.gif?width=600&auto=webp&s=055bc4f4d72ba61da589e76cae161e58e5f91a5a)" width="265px" align="right"/>
 - Me gusta programar
 
 
@@ -35,8 +34,6 @@
 </a>
 </p>
 <br/>
-
-[![Abhigyan Trips' Activity Graph](https://activity-graph.herokuapp.com/graph?username=RyukaVoid&theme=redical)](https://abhigyantrips.dev)
 
 ### Contactame
 
