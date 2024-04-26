@@ -3,10 +3,10 @@
 </div>
 
 <!-- ## 👋 &nbsp;Hey there! I'm Ryuka -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=F7005C&background=FFFFFF00&center=true&vCenter=true&size=40&width=480&height=50&lines=Ryuka)](https://github.com/RyukaVoid)
+## Diego Ramirez
 
 ### 👨🏻‍💻 &nbsp;Sobre mi
-- Me gusta programar
+- Desarrollador de software egresado de la Universidad Técnica Federico Santa María con 3 años de experiencia. Apasionado por aprender nuevas tecnologías y adaptarse a nuevos entornos. Comprometido con el crecimiento profesional en el desarrollo espacializado.
 
 
 ### 🛠 &nbsp;Tecnologías
