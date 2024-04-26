@@ -6,7 +6,7 @@
 ## Diego Ramirez
 
 ### 👨🏻‍💻 &nbsp;Sobre mi
-- Desarrollador de software egresado de la Universidad Técnica Federico Santa María con 3 años de experiencia. Apasionado por aprender nuevas tecnologías y adaptarse a nuevos entornos. Comprometido con el crecimiento profesional en el desarrollo espacializado.
+Desarrollador de software egresado de la Universidad Técnica Federico Santa María con 3 años de experiencia. Apasionado por aprender nuevas tecnologías y adaptarse a nuevos entornos. Comprometido con el crecimiento profesional en el desarrollo espacializado.
 
 
 ### 🛠 &nbsp;Tecnologías
