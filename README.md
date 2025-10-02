@@ -1,43 +1,26 @@
-<div align="right">
-  <img alt="GitHub followers" src="https://img.shields.io/github/followers/RyukaVoid?style=social">
-</div>
+<h2> Hi, I'm Diego Ramirez! <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHRpYjd1ZWNqcjEwaTIyeTczbTMwNXpvOGlweHMxa3l1Nm1uYmxnZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/jdiZ7hlxcnada/giphy.gif" width="50"></h2>
+<img align='right' src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExeTF3eGNtN2x4MTQxbG0ycGtlYnMydW9zazBmNDJmajNkeTFocmE1biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/aNqEFrYVnsS52/giphy.gif" width="230">
+<h3>Software Engineer</h3>
 
-<!-- ## 👋 &nbsp;Hey there! I'm Ryuka -->
-## Diego Ramirez
+Technical University Degree in Computer Science at [USM](https://usm.cl/) - Chile
 
-### 👨🏻‍💻 &nbsp;Sobre mi
-Desarrollador de software egresado de la Universidad Técnica Federico Santa María con 3 años de experiencia. Apasionado por aprender nuevas tecnologías y adaptarse a nuevos entornos. Comprometido con el crecimiento profesional en el desarrollo espacializado.
+<a href="dramirezh@outlook.cl"><img src="https://img.shields.io/badge/-dramirezh%40outlook.cl-orange?&style=flat&logo=Gmail&logoColor=white"></a>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Diego%20Ramirez-blue?logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/diego-ramirezh/)](https://www.linkedin.com/in/diego-ramirezh/)
+<img alt="GitHub followers" src="https://img.shields.io/github/followers/RyukaVoid?style=social">
 
+```javascript
+const diego = {
+  pronouns: "he" | "him",
+  code: ["Python", "Java", "Node", "Typescript", "PHP", "Javascript"],
+  backend: ["FastAPI", "Flask", "ExpressJs", "NestJS", "SpringBoot", "Laravel"],
+  frontend: ["Vue3", "Angular", "React", "NextJs"],
+  devopsCloud: ["Git", "Postman", "AWS (Lambda, RDS, S3)", "Docker", "Kubernetes", "Jira"],
+  databases: ["PostgreSQL", "Oracle", "SqlServer", "Mysql"],
+  languages: {
+    native: "Spanish",
+    fluency: "English B2"
+  },
+  challenge: "Currently pursuing AWS certification"
+}
+```
 
-### 🛠 &nbsp;Tecnologías
-
-![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)&nbsp;
-![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
-![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
-![Django](https://img.shields.io/badge/-Django-05122A?style=flat&logo=django&logoColor=092E20)&nbsp;
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)\
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![Laravel](https://img.shields.io/badge/-Laravel-05122A?style=flat&logo=laravel)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-
-### ⚙️ &nbsp;Gráficos de Github
-
-<p align="center">
-<a href="https://github.com/AVS1508">
-  <img width="49%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=RyukaVoid&show_icons=true&theme=radical&include_all_commits=true&count_private=false"/>
-  <img width="49%" height="200px" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=RyukaVoid&layout=compact&langs_count=8&theme=radical"/>
-</a>
-</p>
-<br/>
-
-### Contactame
-
-<p align="left">
-<a href="https://www.linkedin.com/in/ryukavoid/"><img src="https://img.shields.io/badge/Diego%40Ramirez-blue?&style=flat&logo=Linkedin&logoColor=white"></a>
-<a href="diego.ramirezh@sansano.usm.cl"><img src="https://img.shields.io/badge/-diego.ramirezh%40sansano.usm.cl-orange?&style=flat&logo=Gmail&logoColor=white"></a>
-</p>
